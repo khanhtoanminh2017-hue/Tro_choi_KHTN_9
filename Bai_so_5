@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trò chơi KHTN 9</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #eef5ff;
+      padding: 50px 20px;
+    }
+    h1 { color: #174ea6; }
+    a {
+      display: block;
+      max-width: 320px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #1769d2;
+      color: white;
+      text-decoration: none;
+      border-radius: 12px;
+      font-size: 20px;
+    }
+    a:hover { background: #104b99; }
+  </style>
+</head>
+<body>
+  <h1>TRÒ CHƠI KHOA HỌC TỰ NHIÊN 9</h1>
+  <p>Chọn hình thức tổ chức trò chơi</p>
+
+  <a href="HAI_DOI_DEMO.html">Thi đấu giữa hai đội</a>
+  <a href="CA_NHAN_DEMO.html">Học sinh chơi cá nhân</a>
+
+  <p>Thiết kế: Thầy Nguyễn Đức Thắng</p>
+</body>
+</html>
